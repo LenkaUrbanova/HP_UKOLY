@@ -40,3 +40,5 @@ else:
     print(
         f"Vozidlo '{zadany_typ}' není k dispozici. K dispozici jsou pouze 2 modely: Peugeot, Škoda"
     )
+
+    # zkouška
